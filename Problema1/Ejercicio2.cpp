@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 int main() {
 	double C, K, F;
@@ -11,4 +11,3 @@ int main() {
 
 	return 0;
 }
-*/

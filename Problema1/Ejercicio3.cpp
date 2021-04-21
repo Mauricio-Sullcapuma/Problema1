@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 int main() {
 	int L1, L2, L3;
@@ -6,7 +6,7 @@ int main() {
 	cout << "Ingrese el primer lado: ";
 	cin >> L1;
 	cout << "Ingrese el segundo lado: ";
-	cin >> L2;
+    cin >> L2;
 	cout << "Ingrese el tercer lado: ";
 	cin >> L3;
 	S = (L1 + L2 + L3) / 2;
@@ -15,4 +15,3 @@ int main() {
 	
 	return 0;
 }
-*/
